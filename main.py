@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-PROJECT_ROOT="D:/Python/flask-authentication"
+PROJECT_ROOT="path to project folder"
 
 # db config
 app.config['SECRET_KEY'] = 'any-secret-key-you-choose'
