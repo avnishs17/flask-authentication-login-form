@@ -10,7 +10,7 @@ The app requires the following dependencies:
 * Werkzeug
 
 ### All dependencies can be installed by running the following command:
-<sub>pip install -r requirements.txt</sub>
+> pip install -r requirements.txt
 
 ## Setup
 Clone the repository.
